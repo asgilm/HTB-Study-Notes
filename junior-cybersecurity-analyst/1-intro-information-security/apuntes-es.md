@@ -1,18 +1,18 @@
 # TABLA DE CONTENIDO
 
-### Introducción
-1. [Structure of InfoSec (Estructura de la seguridad de la información)](#structure-of-infosec)
-2. [Principles of Information Security (Principios de la Seguridad de la Información)](#principles-of-information-security)
-
-### Dominios de la seguridad de la información
-3. [Network Security (Seguridad de Red)](#network-security)
-4. [Application Security (Seguridad de Aplicaciones)](#application-security)
-5. [Operational Security (Seguridad Operacional)](#operational-security)
-6. [Disaster Recovery and Business Continuity (Recuperación ante Desastres y Continuidad del Negocio)](#disaster-recovery-and-business-continuity)
-7. [Cloud Security (Seguridad en la Nube)](#cloud-security)
-8. [Physical Security (Seguridad Física)](#physical-security)
-9. [Mobile Security (Seguridad Móvil)](#mobile-security)
-10. [Internet of Things Security (Seguridad del Internet de las Cosas)](#internet-of-things-security)
+1. [Introducción](#introducci%C3%B3n)
+   - Structure of InfoSec (Estructura de la seguridad de la información)
+   - Principles of Information Security (Principios de la Seguridad de la Información)
+     
+2. [InfoSec Domains (Dominios de la seguridad de la información)](#infosec-domains)
+   - Network Security (Seguridad de Red)
+   - Application Security (Seguridad de Aplicaciones)
+   - Operational Security (Seguridad Operacional)
+   - Disaster Recovery and Business Continuity (Recuperación ante Desastres y Continuidad del Negocio)
+   - Cloud Security (Seguridad en la Nube)
+   - Physical Security (Seguridad Física)
+   - Mobile Security (Seguridad Móvil)
+   - Internet of Things Security (Seguridad del Internet de las Cosas)
 
 ### Amenazas
 11. [Distributed Denial of Service (Denegación de Servicio Distribuida)](#distributed-denial-of-service)
@@ -35,13 +35,18 @@
 
 ---
 
-## Structure of InfoSec
+## Introducción
+### Structure of InfoSec
 
 La seguridad de la información (InfoSec) trata de salvaguardar la información y los sistemas de personas que no deben tener acceso a ellos.
 
 ![Estructura Mundo Digital](images/InfoSec.png)
 
+
+
 ## Principles of Information Security
+
+## InfoSec Domains
 
 ## Network Security
 
