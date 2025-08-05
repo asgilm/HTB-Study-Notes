@@ -27,11 +27,11 @@
    - Blue Team
    - Purple Team
 
-### Roles de trabajo
-20. [Chief Information Security Officer (Director de Seguridad de la Información)](#chief-information-security-officer)
-21. [Penetration Testers (Pentester)](#penetration-testers)
-22. [Security Operations Center SOC (SOC)](#security-operations-center-soc)
-23. [Bug Bounty Hunter (Cazador de Recompensas de Errores)](#bug-bounty-hunter)
+5. [Job Roles (Roles de trabajo)](#job-roles)
+   - Chief Information Security Officer (Director de Seguridad de la Información)
+   - Penetration Testers (Pentester)
+   - Security Operations Center SOC (SOC)
+   - Bug Bounty Hunter (Cazador de Recompensas de Errores)
 
 ---
 
@@ -87,6 +87,9 @@ La seguridad de la información (InfoSec) trata de salvaguardar la información 
 
 ### Purple Team
 
+---
+
+## Job Roles
 ### Chief Information Security Officer
 
 ### Penetration Testers
