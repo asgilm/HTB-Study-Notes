@@ -106,6 +106,16 @@ Cual es la diferencia entre infosec y ciberseguridad?
 ## InfoSec Domains
 ### Network Security
 
+La seguridad de la red es como el sistema de seguridad de una casa, pero en lugar de proteger el hogar, protege una red informática de amenazas.
+
+**Elementos:**
+- Firewalls
+- IDS: Detecta eventos sospechos y anomalias en la red.
+- IPS: Parecido al IDS pero toma acción para bloquear posibles amenazas.
+- VPN
+- Mecanismos de control de acceso
+- Tecnologias de encriptación: Para salvaguardar los datos en transito y en reposo haciendolo ilegibles para partes no autorizadas.
+
 ### Application Security
 
 ### Operational Security
