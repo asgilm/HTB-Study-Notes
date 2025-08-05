@@ -118,7 +118,20 @@ La seguridad de la red es como el sistema de seguridad de una casa, pero en luga
 
 ### Application Security
 
+El objetivo principal es garantizar que las aplicaciones se desarrollen, implementen y mantengan de una manera que preserve la confidencialidad, integridad y disponibilidad (Tríada CIA) de los datos que procesan y los sistemas con los que interactúan.
+
 ### Operational Security
+
+El objetivo principal de la seguridad operativa es mantener un entorno seguro para las operaciones diarias de una organización, asegurando que la información confidencial permanezca confidencial, intacta y disponible solo para personas autorizadas.
+
+**Proceso Opsec:**
+1. Identificación de activos: Que elementos son importantes.
+2. Identificación de amenazas: Analiza las amenazas y evalua las vulnerabilidades. Que podría malir sal? 🤣
+3. Identificaicón de vulnerabilidades: Tomar medidas
+4. Control de acceso: Quien puede o no entrar y tener accesos a esos elementos importantes.
+5. Monitoreo.
+
+OpSec se trata de analizar amenazas, evaluar vulnerabilidades e implementar medidas de protección adecuadas.
 
 ### Disaster Recovery and Business Continuity
 
