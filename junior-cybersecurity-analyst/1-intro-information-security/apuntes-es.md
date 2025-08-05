@@ -17,7 +17,7 @@
 
 La seguridad de la información (InfoSec) trata de salvaguardar la información y los sistemas de personas que no deben tener acceso a ellos.
 
-![Estructura Mundo Digital](images/InfoSec.png)
+![Estructura Mundo Digital](../images/InfoSec.png)
 
 *Client:* Es desde donde se accede a internet (Pc, portatil, movil)
 
