@@ -12,10 +12,27 @@
 7. [Cloud Security (Seguridad en la Nube)](#cloud-security)
 8. [Physical Security (Seguridad Física)](#physical-security)
 9. [Mobile Security (Seguridad Móvil)](#mobile-security)
+10. [Internet of Things Security (Seguridad del Internet de las Cosas)](#internet-of-things-security)
 
 ### Amenazas
+11. [Distributed Denial of Service (Denegación de Servicio Distribuida)](#distributed-denial-of-service)
+12. [Ransomware](#ransomware)
+13. [Social Engineering (Ingeniería Social)](#social-engineering)
+14. [Insider Threat (Amenazas Internas)](#insider-threat)
+15. [Advanced Persistent Threats (Amenazas Persistentes Avanzadas)](#advanced-persistent-threats)
+
 ### Teams de ciberseguridad
+16. [Threat Actors (Actores de Amenazas)](#threat-actors)
+17. [Red Team](#red-team)
+18. [Blue Team](#blue-team)
+19. [Purple Team](#purple-team)
+
 ### Roles de trabajo
+20. [Chief Information Security Officer (Director de Seguridad de la Información)](#chief-information-security-officer)
+21. [Penetration Testers (Pentester)](#penetration-testers)
+22. [Security Operations Center SOC (SOC)](#security-operations-center-soc)
+23. [Bug Bounty Hunter (Cazador de Recompensas de Errores)](#bug-bounty-hunter)
+
 ---
 
 ## Structure of InfoSec
