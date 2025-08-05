@@ -42,6 +42,23 @@ La seguridad de la información (InfoSec) trata de salvaguardar la información 
 
 ![Estructura Mundo Digital](images/InfoSec.png)
 
+*Client:* Es desde donde se accede a internet (Pc, portatil, movil)
+
+*Internet:* Una inmensa red de servidores interconectados que ofrecen servicios y aplicaciones
+
+*Servers:* Proporcionan Servicios
+
+*Network:* Cuando varios equipos están conectados y se comunican entre si.
+
+❗Los ataques ciberneticos pueden provocar perdidas financieras, perdida de reputación de una empresa y hasta amenazas a la seguiridad nacional.
+
+Cual es la diferencia entre infosec y ciberseguridad?
+
+❗CIA: Confidentiality, integrity y availability = CID: Confidencialidad, integridad y disponibilidad❗
+
+*riesgo:* La posibilidad de que ocurra un mal evento.
+**
+
 ### Principles of Information Security
 
 ---
