@@ -37,6 +37,8 @@
 
 ## Structure of InfoSec
 
+
+
 ## Principles of Information Security
 
 ## Network Security
@@ -80,6 +82,3 @@
 ## Security Operations Center SOC
 
 ## Bug Bounty Hunter
-
-
-
