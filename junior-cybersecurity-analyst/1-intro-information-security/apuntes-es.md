@@ -14,18 +14,18 @@
    - Mobile Security (Seguridad Móvil)
    - Internet of Things Security (Seguridad del Internet de las Cosas)
 
-### Amenazas
-11. [Distributed Denial of Service (Denegación de Servicio Distribuida)](#distributed-denial-of-service)
-12. [Ransomware](#ransomware)
-13. [Social Engineering (Ingeniería Social)](#social-engineering)
-14. [Insider Threat (Amenazas Internas)](#insider-threat)
-15. [Advanced Persistent Threats (Amenazas Persistentes Avanzadas)](#advanced-persistent-threats)
-
-### Teams de ciberseguridad
-16. [Threat Actors (Actores de Amenazas)](#threat-actors)
-17. [Red Team](#red-team)
-18. [Blue Team](#blue-team)
-19. [Purple Team](#purple-team)
+3. [Threats (Amenazas)](#threats)
+   - Distributed Denial of Service (Denegación de Servicio Distribuida)
+   - Ransomware
+   - Social Engineering (Ingeniería Social)
+   - Insider Threat (Amenazas Internas)
+   - Advanced Persistent Threats (Amenazas Persistentes Avanzadas)
+     
+4. [Cybersecurity Teams](#cybersecurity-teams)
+   - Threat Actors (Actores de Amenazas)
+   - Red Team
+   - Blue Team
+   - Purple Team
 
 ### Roles de trabajo
 20. [Chief Information Security Officer (Director de Seguridad de la Información)](#chief-information-security-officer)
@@ -42,50 +42,55 @@ La seguridad de la información (InfoSec) trata de salvaguardar la información 
 
 ![Estructura Mundo Digital](images/InfoSec.png)
 
+### Principles of Information Security
 
-
-## Principles of Information Security
+---
 
 ## InfoSec Domains
+### Network Security
 
-## Network Security
+### Application Security
 
-## Application Security
+### Operational Security
 
-## Operational Security
+### Disaster Recovery and Business Continuity
 
-## Disaster Recovery and Business Continuity
+### Cloud Security
 
-## Cloud Security
+### Physical Security
 
-## Physical Security
+### Mobile Security
 
-## Mobile Security
+### Internet of Things Security
 
-## Internet of Things Security
+---
 
-## Distributed Denial of Service
+## Threats
+### Distributed Denial of Service
 
-## Ransomware
+### Ransomware
 
-## Social Engineering
+### Social Engineering
 
-## Insider Threat
+### Insider Threat
 
-## Advanced Persistent Threats
+### Advanced Persistent Threats
 
-## Threat Actors
+---
 
-## Red Team
+## Cybersecurity Teams
+### Threat Actors
 
-## Blue Team
+### Red Team
 
-## Purple Team
+### Blue Team
 
-## Chief Information Security Officer
+### Purple Team
 
-## Penetration Testers
+### Chief Information Security Officer
 
-## Security Operations Center SOC
+### Penetration Testers
 
-## Bug Bounty Hunter
+### Security Operations Center SOC
+
+### Bug Bounty Hunter
