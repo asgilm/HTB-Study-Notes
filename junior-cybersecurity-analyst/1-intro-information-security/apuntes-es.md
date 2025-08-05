@@ -39,7 +39,7 @@
 
 La seguridad de la información (InfoSec) trata de salvaguardar la información y los sistemas de personas que no deben tener acceso a ellos.
 
-![Estructura Mundo Digital](../InfoSec.png)
+![Estructura Mundo Digital](images/InfoSec.png)
 
 ## Principles of Information Security
 
