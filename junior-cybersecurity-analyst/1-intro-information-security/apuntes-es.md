@@ -9,30 +9,7 @@
    - Application Security (Seguridad de Aplicaciones)
    - Operational Security (Seguridad Operacional)
    - Disaster Recovery and Business Continuity (Recuperación ante Desastres y Continuidad del Negocio)
-   - Cloud Security (Seguridad en la Nube)
-   - Physical Security (Seguridad Física)
-   - Mobile Security (Seguridad Móvil)
-   - Internet of Things Security (Seguridad del Internet de las Cosas)
-
-3. [Threats (Amenazas)](#threats)
-   - Distributed Denial of Service (Denegación de Servicio Distribuida)
-   - Ransomware
-   - Social Engineering (Ingeniería Social)
-   - Insider Threat (Amenazas Internas)
-   - Advanced Persistent Threats (Amenazas Persistentes Avanzadas)
-     
-4. [Cybersecurity Teams](#cybersecurity-teams)
-   - Threat Actors (Actores de Amenazas)
-   - Red Team
-   - Blue Team
-   - Purple Team
-
-5. [Job Roles (Roles de trabajo)](#job-roles)
-   - Chief Information Security Officer (Director de Seguridad de la Información)
-   - Penetration Testers (Pentester)
-   - Security Operations Center SOC (SOC)
-   - Bug Bounty Hunter (Cazador de Recompensas de Errores)
-
+  
 ---
 
 ## Introducción
@@ -135,45 +112,4 @@ OpSec se trata de analizar amenazas, evaluar vulnerabilidades e implementar medi
 
 ### Disaster Recovery and Business Continuity
 
-### Cloud Security
-
-### Physical Security
-
-### Mobile Security
-
-### Internet of Things Security
-
----
-
-## Threats
-### Distributed Denial of Service
-
-### Ransomware
-
-### Social Engineering
-
-### Insider Threat
-
-### Advanced Persistent Threats
-
----
-
-## Cybersecurity Teams
-### Threat Actors
-
-### Red Team
-
-### Blue Team
-
-### Purple Team
-
----
-
-## Job Roles
-### Chief Information Security Officer
-
-### Penetration Testers
-
-### Security Operations Center SOC
-
-### Bug Bounty Hunter
+Un plan típico de DR incluye procedimientos detallados para realizar copias de seguridad de datos, replicar sistemas y realizar la conmutación por error a sitios alternativos o entornos de nube.
