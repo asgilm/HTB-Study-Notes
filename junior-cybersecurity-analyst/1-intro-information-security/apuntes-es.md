@@ -37,6 +37,7 @@
 
 ## Structure of InfoSec
 
+La seguridad de la información (InfoSec) trata de salvaguardar la información y los sistemas de personas que no deben tener acceso a ellos.
 
 
 ## Principles of Information Security
