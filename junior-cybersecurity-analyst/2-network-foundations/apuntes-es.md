@@ -23,6 +23,6 @@
 - Capa 6 - Presentación: Muestra los datos transferidos, esto incluye el cifrado y descifrado de datos, si se comprimen los datos o la conversión de datos (Todo para que sea legible al final)
 - Capa 7 - Aplicación: Todo lo que se puede acceder atraves de una aplicación, acceder a archivos, transferirlos, modificarlos, verlos etc. **DNS, HTTP, FTP, SMTP**
 
-![Estructura Mundo Digital](../images/modelo-OSI-2.jpg)
+![Estructura Mundo Digital](../images/modelo-OSI-2.png)
 
 ---
