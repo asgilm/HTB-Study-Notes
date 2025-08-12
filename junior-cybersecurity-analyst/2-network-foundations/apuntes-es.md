@@ -32,10 +32,10 @@
 
 ❗MODELO TCP/IP ❗
 
-![Estructura Mundo Digital](../images/modelo-OSI-2.png)
+![Estructura Mundo Digital](../images/modelo-TCP-IP.png)
 
 ❗OSI vs TCP/IP❗
 
-![Estructura Mundo Digital](../images/modelo-OSI-2.png)
+![Estructura Mundo Digital](../images/OSI-vs-TCP-IP.png)
 
 ---
