@@ -7,7 +7,8 @@
 
 2. [Network Communication and Addressing (Comunicación y Direccionamiento de red)](#network-communication-and-addressing)
 - Comunicación en Red
-   
+- DHCP
+
 ---
 
 ## Fundamentos de redes
@@ -65,5 +66,15 @@ El computador "A" desea enviar datos al computador "B" ➡️ "A" utiliza el pro
 - Puertos conocidos (0-1023) (Well-known ports): Puertos reservados para servicios y protocolos comunes y reconocidos, estandarizados por Internet Assigned Numbers Authority (IANA)
 - Puertos registrados (1024-49151) (Registered Ports): No estan tan estrictamente regulados pero la IANA los registra y asigna a servicios especificos.
 - Puertos dinámicos/privados (49152-65535): Son usados por aplicaciones cliente para enviar y recibir datos de servidores, como cuando un navegador se conecta con un servidor de internet. Son dinamicos por que el SO puede seleccionarlos de manera aleatoria.
+
+### Dynamic Host Configuration Protocol (DHCP)
+
+❗Protocolo de Configuración Dinámica de Host DHCP
+
+El proceso de configuración dinámica por DHCP se conoce como DORA (Discover, Offer, Request y Acknowledge)
+- Discover (Descubrir): Un dispositivo que se conecta a una red transmite un **DHCP Discover** como preguntando que servidores DHCP hay disponibles.
+- Offer (Ofrecer): Los servidores DHCP de la red reciben el mensajde de descubirmiento (DHCP Discover) y responden con un **Offer DHCP**, proponiendo un arrendamiento de dirección IP al cliente.
+- Request (Solicitud): El cliente recibe la oferta y responde con un **DHCP Request** indicando que acepta la IP ofrecida por el servidor.
+- Acknowledge (Confirmación): El servidor DHCP envia un **DHCP Acknowledge** confirmando que se le ha asignado una IP al cliente.
 
 ---
