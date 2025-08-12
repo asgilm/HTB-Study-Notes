@@ -38,4 +38,9 @@
 
 ![Estructura Mundo Digital](../images/OSI-vs-TCP-IP.png)
 
+💻 Modos de transmisión
+- Simplex: Solo permite comunicación unidireccional, por ejemplo como de un teclado al computador.
+- Half-duplex: permite comunicación bidireccional pero no simultanea, como por ejemplo los Walkie-talkies que se debe turnar para hablar.
+- Full-duplex: El modo usado en llamadas telefonicas, admite comunicación bidireccional simultanea.
+
 ---
