@@ -1,17 +1,17 @@
 # TABLA DE CONTENIDO
 
 1. [Fundamentos de redes](#fundamentos-de-redes)
-   - Network Concepts (Conceptos de redes)
-     - Modelo OSI
-     - Modelo TCP/IP
+ - Network Concepts (Conceptos de redes)
+   - Modelo OSI
+   - Modelo TCP/IP
 
-2. [Comunicación y Direccionamiento de red](#network-communication-and-addressing)
-
+2. [Network Communication and Addressing (Comunicación y Direccionamiento de red)](#network-communication-and-addressing)
+- Comunicación en Red
    
 ---
 
 ## Fundamentos de redes
-### Network Concepts
+### Conceptos de redes
 
 ❗MODELO OSI (Open Systems Interconnection) ❗
 
@@ -49,6 +49,21 @@
 ---
 
 ## Network Communication and Addressing
-###
+### Comunicación en Red
+
+❗MAC: 48 bits, seis pares hexadecimales separados por dos puntos o guiones ejemplo: 00:1A:2B:3C:4D:5E, los primeros 24 bits (OUI - Organizationally Unique Identifier) son asignados al fabricante de la NIC y los 24 bits restantes son especificos del dispositivo.
+
+❗Address Resolution Protocol (ARP) - Protocolo de resolución de direcciones: Asigna direcciones IP a direcciones MAC.
+
+El computador "A" desea enviar datos al computador "B" ➡️ "A" utiliza el protocolo ARP para descubir la MAC de "B" asociada a su IP ➡️ "A" envia datos con la MAC de destino de "B" ➡️ El switch recibe el frame de "A" ➡️ el switch reenvia al puerto especifico donde esta conectado "B"
+
+❗IPv4: Espacio de direcciones de 32 bits, cuatro numeros decimales separados por puntos, ejemplo: 192.168.1.1
+
+❗IPv6: Espacio de direcciones de 128 bits, ocho grupos de cuatro digitos hexadecimales separados por dos puntos, ejemplo: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+
+❗Puertos: Los numeros de puerto van desde 0 hasta 65535, se asignan a servicios especificos Ejemplo: http ➡️ 80, https ➡️ 443. Se dividen en categorias principales:
+- Puertos conocidos (0-1023) (Well-known ports): Puertos reservados para servicios y protocolos comunes y reconocidos, estandarizados por Internet Assigned Numbers Authority (IANA)
+- Puertos registrados (1024-49151) (Registered Ports): No estan tan estrictamente regulados pero la IANA los registra y asigna a servicios especificos.
+- Puertos dinámicos/privados (49152-65535): Son usados por aplicaciones cliente para enviar y recibir datos de servidores, como cuando un navegador se conecta con un servidor de internet. Son dinamicos por que el SO puede seleccionarlos de manera aleatoria.
 
 ---
