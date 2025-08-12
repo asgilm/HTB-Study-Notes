@@ -1,13 +1,14 @@
 # TABLA DE CONTENIDO
 
 1. [Fundamentos de redes](#fundamentos-de-redes)
- - Network Concepts (Conceptos de redes)
+ - Conceptos de redes
    - Modelo OSI
    - Modelo TCP/IP
 
 2. [Network Communication and Addressing (Comunicación y Direccionamiento de red)](#network-communication-and-addressing)
 - Comunicación en Red
 - DHCP
+- NAT
 
 ---
 
@@ -76,5 +77,11 @@ El proceso de configuración dinámica por DHCP se conoce como DORA (Discover, O
 - Offer (Ofrecer): Los servidores DHCP de la red reciben el mensajde de descubirmiento (DHCP Discover) y responden con un **Offer DHCP**, proponiendo un arrendamiento de dirección IP al cliente.
 - Request (Solicitud): El cliente recibe la oferta y responde con un **DHCP Request** indicando que acepta la IP ofrecida por el servidor.
 - Acknowledge (Confirmación) - ACK: El servidor DHCP envia un **DHCP Acknowledge** confirmando que se le ha asignado una IP al cliente.
+
+### Network Address Translation (NAT)
+
+❗Traducción de direcciones de red NAT
+
+NAT permite que varios dispositivos de una red privada compartan una misma IP Publica. Es un proceso que realizan los Routers o similar, que modifica la IP de origen o destino en los encabezados de los paquetes IP a medida que pasan.
 
 ---
