@@ -3,13 +3,14 @@
 1. [Fundamentos de redes](#fundamentos-de-redes)
    - Network Concepts (Conceptos de redes)
      - Modelo OSI
-   
+     - Modelo TCP/IP
+
 ---
 
 ## Fundamentos de redes
 ### Network Concepts
 
-❗MODELO OSI (Open Systems Interconnection)
+❗MODELO OSI (Open Systems Interconnection) ❗
 
 ![Estructura Mundo Digital](../images/modelo-OSI.jpg)
 
@@ -28,5 +29,13 @@
 🔍 EJEMPLO DE ENVIO DE UN ARCHIVO 🔍
 
 ❗Se envia un archivo ➡️ Capa de aplicación: Inicia la solicitud de transferencia del archivo ➡️ Capa de Presentación: Cifra el archivo ➡️ Capa Sesión: Inicia una sesión de comunicación con el receptor ➡️ Capa de Transporte: El archivo se segmenta para que no hayan errores en la transmisión ➡️ Capa de Red: Se determina la mejor ruta para transferir los datos del archivo ➡️ Capa de Enlace de Datos: Encapsula los datos en tramas para entregarlos nodo a nodo ➡️ Capa Fisica: Transmite los bits del archivo a traves de medio fisico, completando el proceso. ❗
+
+❗MODELO TCP/IP ❗
+
+![Estructura Mundo Digital](../images/modelo-OSI-2.png)
+
+❗OSI vs TCP/IP❗
+
+![Estructura Mundo Digital](../images/modelo-OSI-2.png)
 
 ---
