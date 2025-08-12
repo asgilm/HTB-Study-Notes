@@ -5,6 +5,9 @@
      - Modelo OSI
      - Modelo TCP/IP
 
+2. [Comunicación y Direccionamiento de red](#network-communication-and-addressing)
+
+   
 ---
 
 ## Fundamentos de redes
@@ -42,5 +45,10 @@
 - Simplex: Solo permite comunicación unidireccional, por ejemplo como de un teclado al computador.
 - Half-duplex: permite comunicación bidireccional pero no simultanea, como por ejemplo los Walkie-talkies que se debe turnar para hablar.
 - Full-duplex: El modo usado en llamadas telefonicas, admite comunicación bidireccional simultanea.
+
+---
+
+## Network Communication and Addressing
+###
 
 ---
