@@ -75,6 +75,6 @@ El proceso de configuración dinámica por DHCP se conoce como DORA (Discover, O
 - Discover (Descubrir): Un dispositivo que se conecta a una red transmite un **DHCP Discover** como preguntando que servidores DHCP hay disponibles.
 - Offer (Ofrecer): Los servidores DHCP de la red reciben el mensajde de descubirmiento (DHCP Discover) y responden con un **Offer DHCP**, proponiendo un arrendamiento de dirección IP al cliente.
 - Request (Solicitud): El cliente recibe la oferta y responde con un **DHCP Request** indicando que acepta la IP ofrecida por el servidor.
-- Acknowledge (Confirmación): El servidor DHCP envia un **DHCP Acknowledge** confirmando que se le ha asignado una IP al cliente.
+- Acknowledge (Confirmación) - ACK: El servidor DHCP envia un **DHCP Acknowledge** confirmando que se le ha asignado una IP al cliente.
 
 ---
