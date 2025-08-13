@@ -9,6 +9,7 @@
 - Comunicación en Red
 - DHCP
 - NAT
+- DNS
 
 ---
 
@@ -83,5 +84,20 @@ El proceso de configuración dinámica por DHCP se conoce como DORA (Discover, O
 ❗Traducción de direcciones de red NAT
 
 NAT permite que varios dispositivos de una red privada compartan una misma IP Publica. Es un proceso que realizan los Routers o similar, que modifica la IP de origen o destino en los encabezados de los paquetes IP a medida que pasan.
+
+TIPOS DE NAT:
+- Static NAT: Cada IP privada (Ip del dispositivo dentro de la LAN) corresponde directamente a una sola IP publica (IP que se conecta con internet ( Es la Ip publica del router))
+- Dynamic NAT: Asigna una IP publica disponible de varias IP publicas que tiene, a una IP privada, o sea que de la red privada o LAN hacia internet podrian salir varias IP publicas.
+- Port Address Translation (PAT): Es la mas común en redes domésticas, varias Ip privadas de varios dispositivos por ejemplo de la casa comparten una Ip pública diferenciando las conexiones mendiante numeros de puertos unicos, ejemplo Smartphone con IP 192.168.1.10 usa el puerto dinamico 4444 ➡️ Solicita una pagina web a www.google.com ➡️ el router tiene una IP publica 203.0.113.50 ➡️ Entonces la solicitud que llega al servidor de www.google.com es de la IP 203.0.113.50 ➡️ Y el servidor Web responde a esa IP y llega primero a la IP Publica del router y luego a la 192.168.1.10:4444 que es la ip privada del smarphone por el puerto 4444. VARIOS DISPOSITIVOS COMPARTEN LA MISMA IP PUBLICA.
+
+### Domain Name System (DNS)
+
+❗Sistema de nombres de dominio DNS
+
+❗JERARQUIA DNS
+- Root Servers
+- Top-Level Domains (TLDs): Como por ejemplo .com, .org, o codigos de pais como .co, .uk
+- Second-Level Domains: Por ejemplo **prueba** en prueba.com
+- Subdomains or Hostname: Por ejemplo wwww o accounts en accounts.google.com
 
 ---
