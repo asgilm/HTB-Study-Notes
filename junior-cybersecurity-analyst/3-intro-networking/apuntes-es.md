@@ -9,11 +9,9 @@
 ## Networking Structure
 ### Proxies
 
-La seguridad de la información (InfoSec) trata de salvaguardar la información y los sistemas de personas que no deben tener acceso a ellos.
-
-![Estructura Mundo Digital](images/InfoSec.png)
-
-### Principles of Information Security
+- Dedicated Proxy / Forward Proxy: Es un intermediario entre el computador e internet. Sirve para ocultar la IP real, filtrar contenido o acceder a sitios bloqueados.
+- Reverse proxy: Es un intermediario que se coloca frente a los servidores para protegerlos, distribuir carga o mejorar el rendimiento. Ayuda a que los usuarios no se conecten directamente al servidor real si no al proxy.
+- Transparent Proxy: Estás en la red de una escuela. Aunque no configures nada, todo lo que haces pasa por un proxy que bloquea sitios como redes sociales automáticamente.
 
 ---
 
